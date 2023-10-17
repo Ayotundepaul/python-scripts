@@ -57,6 +57,26 @@ Each script is standalone and can be executed using Python 3. After navigating t
 python3 script_name.py [arguments...]
 ```
 
+Check System Health
+Script Name: system_health_check.py
+
+Purpose: Retrieves and prints various system health metrics like CPU usage, memory usage, and disk space.
+
+Bulk Rename Files with Pattern
+Script Name: bulk_rename.py
+
+Purpose: Renames files in a directory that match a specific pattern.
+
+Parse and Analyze Logs
+Script Name: log_analyzer.py
+
+Purpose: Parses a log file to count occurrences of error messages.
+
+Simple Server Status Checker
+Script Name: server_status_checker.py
+
+Purpose: Pings a list of servers and checks their availability.
+
 Refer to the individual script's "Usage" section above for specific arguments.
 
 ## Contributing
