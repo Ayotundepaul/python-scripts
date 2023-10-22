@@ -77,6 +77,17 @@ Script Name: server_status_checker.py
 
 Purpose: Pings a list of servers and checks their availability.
 
+🌐 **Network Speed Tester**: 
+    - Measures the upload and download speeds of the current internet connection.
+    - Usage: `python network_speed_tester.py`
+    - Dependencies: `speedtest-cli`
+
+📦 **Automated Git Repository Cloner**: 
+    - Clones a list of git repositories to the local machine.
+    - Usage: `python git_repo_cloner.py`
+
+---
+
 Refer to the individual script's "Usage" section above for specific arguments.
 
 ## Contributing
@@ -90,3 +101,6 @@ This project is licensed under the MIT License. See the `LICENSE` file in the re
 ---
 
 This README provides a basic overview and usage instructions for the scripts. Depending on the complexity and the audience of your scripts, you might want to expand certain sections, add more details, or include additional sections like "Dependencies," "Known Issues," or "Changelog."
+
+
+Remember to install any required dependencies before running the scripts.
